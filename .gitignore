@@ -10,8 +10,6 @@
 *.pdf
 *.jpg
 *.png
-*.csv
-*.xlsx
 **.DS_Store
 
 # History files
